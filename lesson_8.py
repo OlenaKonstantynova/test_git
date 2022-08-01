@@ -28,7 +28,7 @@ print(df.head(5))
 print(df.tail(5))
 
 print(df.describe())
-#print(df.size())
+# print(df.size())
 print(df.shape)
 print(df.columns)
 print(df['price'].max)
